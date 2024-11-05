@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilanjana Sathyajith</h1>
+<h3 align="center">Software Engineering Undergrad</h3>
+
 - 🔭 I’m currently working on **GemAuth**
 
 - 🌱 I’m currently learning **React JS , Neural network**

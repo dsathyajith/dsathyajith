@@ -18,13 +18,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
   <a href="https://fb.com/dilanjana.sathyajith" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" />
   </a>
   <a href="https://instagram.com/ds_meeriyagalla" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
   <a href="https://www.youtube.com/c/mryoki" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" />
   </a>
   <a href="https://discord.gg/mryoki" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" />
@@ -36,4 +36,14 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,mongodb,mysql" alt="Skills" />
+</p>
+
+---
+
+<h3 align="center">GitHub Stats & Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragHazra&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragHazra&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>

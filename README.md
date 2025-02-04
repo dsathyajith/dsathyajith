@@ -34,7 +34,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,mongodb,mysql,vscode,github,java,neuralnetwork,react,python" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,mongodb,mysql,vscode,github,java,react,python" alt="Skills" />
 </p>
 
 ---

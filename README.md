@@ -13,7 +13,7 @@
 ---
 
 <h3 align="center">Connect with me</h3>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://linkedin.com/in/dilanjana-meeriyagalla" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
@@ -31,7 +31,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
@@ -41,9 +40,7 @@
 ---
 
 <h3 align="center">GitHub Stats & Top Languages</h3>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragHazra&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnuragHazra&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>

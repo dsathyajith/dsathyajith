@@ -13,7 +13,7 @@
 ---
 
 <h3 align="center">Connect with me</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+<p align="center" style="display: flex; justify-content: center; gap: 25px;">
   <a href="https://linkedin.com/in/dilanjana-meeriyagalla" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
